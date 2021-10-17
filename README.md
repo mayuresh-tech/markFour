@@ -5,7 +5,7 @@
 Hosted on: Netlify \
 URL: https://mayuresh-portfoliov1.netlify.app/
 
-Code: https://github.com/mayuresh-tech/neog.camp_levelZero/tree/main/markFour
+Code: https://github.com/mayuresh-tech/markFour
 
 ### TechStack:
 HTML, CSS, JS
